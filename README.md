@@ -22,4 +22,8 @@ AI-powered web scraping tool with semantic search and data visualization using P
 - Ask questions in natural language
 - View insights through visual dashboards
 
-- 
+## 🔮 Future Improvements
+- Add real-time scraping with APIs
+- Improve UI/UX
+- Deploy on cloud (Streamlit Cloud)
+- Add more language support 
